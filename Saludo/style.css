@@ -15,3 +15,9 @@ h1 {
     text-align: center;
 }
 
+p {
+    background-color: blue;
+    color: black;
+    padding: 20px;
+    text-align:center;
+}
